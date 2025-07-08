@@ -1,0 +1,37 @@
+{
+  "hospital_info": {
+    "name": "Bese, 8567-35",
+    "address": "Sample Collected At :JALANDHAR 3 (Shri Guru Amardas Charitable Hospital, Defence Colony)",
+    "phone": "..."
+  },
+  "patient_info": {
+    "name": "...",
+    "age": 29,
+    "gender": "Male",
+    "id": "..."
+  },
+  "doctor_info": {
+    "name": "..."
+  },
+  "report_info": {
+    "type": "Net Amt",
+    "date_collected": "434430 11/Aug/2023 10:36AM",
+    "date_report": "11/Aug/2023 02:57PM"
+  },
+  "test_results": [
+    {
+      "test_name": "Liver Profile (LFT)",
+      "result_value": "...",
+      "unit": "mg/dL",
+      "reference_range": "...",
+      "status": "Normal"
+    }
+  ],
+  "notes": "If extra tests found, mention it here.",
+  "_metadata": {
+    "source_image": "tmp_4we3o8h.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-28T21:22:17.872471",
+    "model_used": "gemma:2b"
+  }
+}

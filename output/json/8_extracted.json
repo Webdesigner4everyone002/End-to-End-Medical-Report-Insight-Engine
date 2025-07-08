@@ -1,0 +1,37 @@
+{
+  "hospital_info": {
+    "name": "RELIABLE DIAGNOSTIC CENTRE PVT_LTD",
+    "address": "123 Main Street, Anytown, CA 12345",
+    "phone": "(123) 456-7890"
+  },
+  "patient_info": {
+    "name": "MR. SONU SAINI S/O RATTI RAM SAINI",
+    "age": 62,
+    "gender": "Male",
+    "id": "1234567890"
+  },
+  "doctor_info": {
+    "name": "ATUL KUMAR MEENA"
+  },
+  "report_info": {
+    "type": "Blood Count",
+    "date_collected": "24-04-2024 10:37AM",
+    "date_report": "25-04-2024 07:59AM"
+  },
+  "test_results": [
+    {
+      "test_name": "Haemoglobin (HB)",
+      "result_value": "15.10 g/dl",
+      "reference_range": "13-17 RB.C",
+      "unit": "g/dl",
+      "status": "Normal"
+    }
+  ],
+  "additional_info": "If extra tests found, mention it here.",
+  "_metadata": {
+    "source_image": "8.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-29T15:00:26.212567",
+    "model_used": "gemma:2b"
+  }
+}

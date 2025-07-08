@@ -1,0 +1,87 @@
+{
+  "hospital_info": {
+    "name": "National Reference Lab",
+    "address": "Secior-18; New 085, 404003210",
+    "phone": "011 = 30403208",
+    "website": "com Web: im) 98 - MAHADEV COLLECTION PC KANKARBAGH PATNA"
+  },
+  "patient_info": {
+    "name": "Mrs. SUBHADHARA SRIVASTAVA",
+    "age": 73,
+    "gender": "Female",
+    "id": ""
+  },
+  "doctor_info": {
+    "name": "Dr. SELF"
+  },
+  "report_info": {
+    "type": "LIVER PANEL, SCREEN, (Spectrophotometry)",
+    "date_collected": "12: 244137840",
+    "date_report": ""
+  },
+  "test_results": [
+    {
+      "test_name": "AST (SGOT)",
+      "result_value": 58,
+      "unit": "UL <32",
+      "reference_range": "Normal",
+      "status": "Normal"
+    },
+    {
+      "test_name": "ALT (SGPT)",
+      "result_value": 20,
+      "unit": "UL <33",
+      "reference_range": "Normal",
+      "status": "Normal"
+    },
+    {
+      "test_name": "Alkaline Phosphatase (ALP)",
+      "result_value": 1027,
+      "unit": "UL <144",
+      "reference_range": "Normal",
+      "status": "Abnormal"
+    },
+    {
+      "test_name": "Bilirubin Total",
+      "result_value": 0.48,
+      "unit": "mg/dL <1.10",
+      "reference_range": "Normal",
+      "status": "Normal"
+    },
+    {
+      "test_name": "Bilirubin Direct",
+      "result_value": 0.29,
+      "unit": "mg/dL",
+      "reference_range": "Normal",
+      "status": "Normal"
+    },
+    {
+      "test_name": "Bilirubin Indirect",
+      "result_value": 0.19,
+      "unit": "mg/dL <1.10",
+      "reference_range": "Normal",
+      "status": "Normal"
+    },
+    {
+      "test_name": "Total Protein",
+      "result_value": 6.93,
+      "unit": "",
+      "reference_range": "6.40-8.30",
+      "status": "Abnormal"
+    },
+    {
+      "test_name": "Alburrin",
+      "result_value": 3.26,
+      "unit": "",
+      "reference_range": "0.89 - .00",
+      "status": "Normal"
+    }
+  ],
+  "additional_info": "See Name 2",
+  "_metadata": {
+    "source_image": "tmptrn8ivub.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-26T13:43:03.500923",
+    "model_used": "llama3.2:3b"
+  }
+}

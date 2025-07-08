@@ -1,0 +1,37 @@
+{
+  "hospital_info": {
+    "name": "Phasorz Technologies PVT LTD",
+    "address": "Third Floor, No.1210, Hal 2nd Stage, Madipakkam, India 560008",
+    "phone": "9111591115"
+  },
+  "patient_info": {
+    "name": "Niketa Accessno: QO009VCO15598",
+    "age": 34,
+    "gender": "Female",
+    "id": "NIKEFO703889"
+  },
+  "doctor_info": {
+    "name": "Not Provided"
+  },
+  "report_info": {
+    "type": "Test Report Status Final",
+    "date_collected": "07/03/2022 00:00",
+    "date_report": "07/03/2022 16:59"
+  },
+  "test_results": [
+    {
+      "test_name": "Test Name Value Range Unit",
+      "result_value": "6.20",
+      "unit": "Method",
+      "reference_range": "8.995 - 60 - 181 4.50 - 10.90 High 0.550 - 4.780",
+      "status": "Normal"
+    }
+  ],
+  "notes": "Additional notes or interpretations not provided.",
+  "_metadata": {
+    "source_image": "1.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-30T22:34:20.806165",
+    "model_used": "gemma:2b"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "hospital_info": {
+    "name": "HUMAN CARE LAB",
+    "address": "...",
+    "phone": "...",
+    "website": "..."
+  },
+  "patient_info": {
+    "name": "GHULAM BATOOL",
+    "age": 70,
+    "gender": "Female",
+    "id": "..."
+  },
+  "doctor_info": {
+    "name": "DR.ALLAH BUKHSH SB URINE EXAMINATION REPORT"
+  },
+  "report_info": {
+    "type": "Urine",
+    "date_collected": "...",
+    "date_report": "..."
+  },
+  "test_results": [
+    {
+      "test_name": "TEST_NAME VALUE RANGE UNIT",
+      "result_value": "...",
+      "unit": "...",
+      "reference_range": "...",
+      "status": "Normal/Abnormal"
+    }
+  ],
+  "notes": "If extra tests found, mention it here.",
+  "_metadata": {
+    "source_image": "tmp3pdq6dbm.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-28T20:47:10.668584",
+    "model_used": "gemma:2b"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "hospital_info": {
+    "name": "Thyrocare",
+    "address": "9 0:37/3, TTC MIDC, Turbhe, Navi Mumbal - 400.703 ©0: 3400 wellness@thyrocare.com",
+    "phone": "N/A"
+  },
+  "patient_info": {
+    "name": "SHASHANK SHUKLA",
+    "age": 48,
+    "gender": "M",
+    "id": "N/A"
+  },
+  "doctor_info": {
+    "name": "N/A"
+  },
+  "report_info": {
+    "type": "Medical Report",
+    "date_collected": "N/A",
+    "date_report": "N/A"
+  },
+  "test_results": [
+    {
+      "test_name": "HbAtcHEMOGRAM TEST",
+      "result_value": "N/A",
+      "unit": "N/A",
+      "reference_range": "N/A",
+      "status": "N/A"
+    }
+  ],
+  "notes": "Please correlate with clinical conditions.",
+  "_metadata": {
+    "source_image": "2.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-29T13:56:58.809954",
+    "model_used": "gemma:2b"
+  }
+}

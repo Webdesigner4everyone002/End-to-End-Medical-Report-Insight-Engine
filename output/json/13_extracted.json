@@ -1,0 +1,37 @@
+{
+  "hospital_info": {
+    "name": "Shri Ram Hospital",
+    "address": "...",
+    "phone": "..."
+  },
+  "patient_info": {
+    "name": "Mrs,GOMATHI",
+    "age": 0,
+    "gender": "Female",
+    "id": "..."
+  },
+  "doctor_info": {
+    "name": "Dr. VU. é M.B.B.S"
+  },
+  "report_info": {
+    "type": "Casualty Report",
+    "date_collected": "...",
+    "date_report": "..."
+  },
+  "test_results": [
+    {
+      "test_name": "Blood Glucose",
+      "result_value": "105",
+      "unit": "mg/dL",
+      "reference_range": "105-140",
+      "status": "Normal"
+    }
+  ],
+  "notes": "Patient's blood glucose level is within normal range.",
+  "_metadata": {
+    "source_image": "13.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-29T13:49:53.896341",
+    "model_used": "gemma:2b"
+  }
+}

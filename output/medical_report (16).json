@@ -1,0 +1,37 @@
+{
+  "hospital_info": {
+    "name": "Hospital Name",
+    "address": "123 Main Street, Karachi",
+    "phone": "021-555-1234"
+  },
+  "patient_info": {
+    "name": "Mr. No. 21061831419",
+    "age": 56,
+    "gender": "Male",
+    "id": "123456"
+  },
+  "doctor_info": {
+    "name": "Dr. John Smith"
+  },
+  "report_info": {
+    "type": "CBC Profile",
+    "date_collected": "2021-08-08",
+    "date_report": "2021-08-16"
+  },
+  "test_results": [
+    {
+      "test_name": "Hemoglobin",
+      "result_value": "137",
+      "unit": "mg/dL",
+      "reference_range": "13-15",
+      "status": "Normal"
+    }
+  ],
+  "notes": "Reactive Neutrophilic Leucocylasis",
+  "_metadata": {
+    "source_image": "tmpo_quqzx_.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-28T21:09:54.469075",
+    "model_used": "gemma:2b"
+  }
+}

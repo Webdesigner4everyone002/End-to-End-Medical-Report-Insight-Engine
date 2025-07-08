@@ -1,0 +1,37 @@
+{
+  "hospital_info": {
+    "name": "Technologies Pvt. Ltd LABORATORY",
+    "address": "Block-EP, Complex, Level 3, Vasant squore Mall, Bidhahnagar, Kolkata~700091",
+    "phone": "..."
+  },
+  "patient_info": {
+    "name": "PAUL Agel",
+    "age": 0,
+    "gender": "Male",
+    "id": "PO4010181534-958"
+  },
+  "doctor_info": {
+    "name": "Dr. John Smith"
+  },
+  "report_info": {
+    "type": "Whole Blood-EDTA Report",
+    "date_collected": "07-08-2023",
+    "date_report": "08-08-2023"
+  },
+  "test_results": [
+    {
+      "test_name": "HbA1c Concentration",
+      "result_value": "61 %",
+      "unit": "%",
+      "reference_range": "5-10",
+      "status": "Normal"
+    }
+  ],
+  "additional_info": "If extra tests found, mention it here.",
+  "_metadata": {
+    "source_image": "4.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-29T14:17:22.588830",
+    "model_used": "gemma:2b"
+  }
+}

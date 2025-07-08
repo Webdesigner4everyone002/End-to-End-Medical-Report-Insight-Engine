@@ -1,0 +1,37 @@
+{
+  "hospital_info": {
+    "name": "Thyrocare Technologies Limited",
+    "address": "0-37/3, TIC MIDG, Turbhe, Navi 400703 4 © 022 = @iwww.thyrocare.com",
+    "phone": "..."
+  },
+  "patient_info": {
+    "name": "Sashikanta Nayak",
+    "age": 36,
+    "gender": "Male",
+    "id": "1298/4"
+  },
+  "doctor_info": {
+    "name": "Not Provided"
+  },
+  "report_info": {
+    "type": "Medical Report",
+    "date_collected": "Not Provided",
+    "date_report": "Not Provided"
+  },
+  "test_results": [
+    {
+      "test_name": "HbALc",
+      "result_value": "160",
+      "unit": "mg/dl",
+      "reference_range": "90 - 120",
+      "status": "Good Control"
+    }
+  ],
+  "additional_info": "If extra tests found, mention it here.",
+  "_metadata": {
+    "source_image": "11.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-29T13:47:21.667911",
+    "model_used": "gemma:2b"
+  }
+}

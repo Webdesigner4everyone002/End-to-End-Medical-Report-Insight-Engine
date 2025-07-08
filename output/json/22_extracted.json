@@ -1,0 +1,37 @@
+{
+  "hospital_info": {
+    "name": "DEHU PATHOLOGY LABORATORY",
+    "address": "123 Main Street, Anytown, CA 12345",
+    "phone": "(123) 456-7890"
+  },
+  "patient_info": {
+    "name": "MR. ATTAR KASAM GULAB",
+    "age": 76,
+    "gender": "Male",
+    "id": "1234567890"
+  },
+  "doctor_info": {
+    "name": "DR. GOWANDE HOSPITAL"
+  },
+  "report_info": {
+    "type": "DEHU Pathology Laboratory Report",
+    "date_collected": "10/11/2023 12:37 PM",
+    "date_report": "10/11/2023 12:39 PM"
+  },
+  "test_results": [
+    {
+      "test_name": "Complete Blood Count",
+      "result_value": "117 gmsidl Erythrocyte(RBC)",
+      "unit": "fL",
+      "reference_range": "110-170",
+      "status": "Normal"
+    }
+  ],
+  "notes": "Platelet, WBC, count manually confirmed. Pathological Remark Suggested clinical correlation & follow up.",
+  "_metadata": {
+    "source_image": "22.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-29T13:59:33.881729",
+    "model_used": "gemma:2b"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "hospital_info": {
+    "name": "PATHOLOGY SHOP NO. 3",
+    "address": "1STFLOOR, AGGARWAL MARKET OPP. BSP OFFICE, SAHARANPUR-247001 SAHARANPUR",
+    "phone": "..."
+  },
+  "patient_info": {
+    "name": "Mrs. KAVITA",
+    "age": 41,
+    "gender": "Female",
+    "id": "..."
+  },
+  "doctor_info": {
+    "name": "Dr.RKUMAR"
+  },
+  "report_info": {
+    "type": "Final Test",
+    "date_collected": "06/18/2019 00:00:00",
+    "date_report": "06/18/2019 00:00:00"
+  },
+  "test_results": [
+    {
+      "test_name": "Thyroid Profile, Total, Serum (ECLIA)",
+      "result_value": "73",
+      "unit": "g/dL",
+      "reference_range": "0.80- 2.00",
+      "status": "Normal"
+    }
+  ],
+  "notes": "TSH levels are subject to circadian variation, reaching peak levels between 2 - 4.a.m. and at a minimum between 6-10 pm. The variation is of the order of 50%, hence time of the day has influence on the measured serum TSH concentrations.",
+  "_metadata": {
+    "source_image": "15.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-29T13:53:54.231874",
+    "model_used": "gemma:2b"
+  }
+}

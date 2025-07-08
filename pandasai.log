@@ -1,0 +1,96 @@
+2025-06-30 22:57:31 [INFO] Question: How many patients have rbc count greater than 1000?
+2025-06-30 22:57:31 [INFO] Running PandasAI with openai LLM...
+2025-06-30 22:57:31 [INFO] Prompt ID: 97c3bf04-0492-42cb-a5c5-ddae1630dbe1
+2025-06-30 22:57:31 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-30 22:57:31 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-30 22:57:31 [INFO] Executing Step 1: CacheLookup
+2025-06-30 22:57:31 [INFO] Executing Step 2: PromptGeneration
+2025-06-30 22:57:31 [INFO] Using prompt: <dataframe>
+dfs[0]:24x4
+patient,test,value,unit
+Mr. SHARMA,haemoglobin (hb),105.0,feumm
+MR. ATTAR KASAM GULAB,erythrocyte count,,em
+Sachin Sharma,"liver panel, screen, (spectrophotometry) ast (sgot)",218.0,Units
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ How many patients have rbc count greater than 1000?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2025-06-30 22:57:31 [INFO] Executing Step 3: CodeGenerator
+2025-06-30 22:57:32 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-06-30 22:57:32 [ERROR] Pipeline failed on step 3: Error code: 401 - {'error': {'message': 'Incorrect API key provided: YOUR_OPE*******_KEY. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-06-30 23:02:12 [INFO] Question: how many patients have rbc count greater than 1000?
+2025-06-30 23:02:12 [INFO] Running PandasAI with openai LLM...
+2025-06-30 23:02:12 [INFO] Prompt ID: 0598e146-6c0a-4779-b6ca-c06ca59946d2
+2025-06-30 23:02:12 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-30 23:02:12 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-30 23:02:12 [INFO] Executing Step 1: CacheLookup
+2025-06-30 23:02:12 [INFO] Executing Step 2: PromptGeneration
+2025-06-30 23:02:12 [INFO] Using prompt: <dataframe>
+dfs[0]:24x4
+patient,test,value,unit
+MR.Shivam Tomar,blood lipid profile,,%
+Renuka Kelkar,cbc - complete blood count sample : whole blaod edta rbc 10767 a,125.0,Units
+MR. SONU SAINI S/O RATTI RAM SAINI,hbatchemogram test,117.0,em
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ how many patients have rbc count greater than 1000?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2025-06-30 23:02:12 [INFO] Executing Step 3: CodeGenerator
+2025-06-30 23:02:15 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-30 23:02:15 [INFO] Retrying request to /chat/completions in 0.385638 seconds
+2025-06-30 23:02:17 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-30 23:02:17 [INFO] Retrying request to /chat/completions in 0.825532 seconds
+2025-06-30 23:02:19 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-30 23:02:19 [ERROR] Pipeline failed on step 3: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}

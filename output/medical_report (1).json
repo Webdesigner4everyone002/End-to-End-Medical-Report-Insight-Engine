@@ -1,0 +1,45 @@
+{
+  "hospital_info": {
+    "name": "SRL Ltd",
+    "address": "GP-26, MARUTI INDUSTRIAL ESTATE, UDYOG VIHAR, SECTOR-18, GURGAON, 122015 HARYANA, INDIA",
+    "phone": "9111591115",
+    "fax": "CIN - U74899PB1995PLC045956"
+  },
+  "patient_info": {
+    "name": "NIKETA",
+    "age": 34,
+    "gender": "Female",
+    "id": "NIKEFO703889"
+  },
+  "doctor_info": {
+    "name": "Self"
+  },
+  "report_info": {
+    "type": "SPECIALISED CHEMISTRY - HORMONE THYROID PANEL, SERUM",
+    "date_collected": "07/03/2022 00:00",
+    "date_report": "07/03/2022 16:59"
+  },
+  "test_results": [
+    {
+      "test_name": "T4",
+      "result_value": 6.2,
+      "unit": "",
+      "reference_range": "60 - 181",
+      "status": "Normal"
+    },
+    {
+      "test_name": "TSH (3rd Generation)",
+      "result_value": 8.995,
+      "unit": "",
+      "reference_range": "4.50 - 10.90",
+      "status": "Abnormal"
+    }
+  ],
+  "additional_info": "High 0.550 - 4.780",
+  "_metadata": {
+    "source_image": "tmpuhoa7sas.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-26T13:36:41.398712",
+    "model_used": "llama3.2:3b"
+  }
+}

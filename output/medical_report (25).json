@@ -1,0 +1,37 @@
+{
+  "hospital_info": {
+    "name": "SHREE HOSPITAL",
+    "address": "123 Main Street, Anytown, CA 12345",
+    "phone": "(123) 456-7890"
+  },
+  "patient_info": {
+    "name": "John Doe",
+    "age": 35,
+    "gender": "Male",
+    "id": "123456"
+  },
+  "doctor_info": {
+    "name": "Dr. Jane Smith"
+  },
+  "report_info": {
+    "type": "Hematology",
+    "date_collected": "11:35 AMM",
+    "date_report": "07:42 PM"
+  },
+  "test_results": [
+    {
+      "test_name": "Complete Blood Count (CBC)",
+      "result_value": "115-160",
+      "unit": "fL",
+      "reference_range": "Normal",
+      "status": "Normal"
+    }
+  ],
+  "notes": "No additional notes or interpretations found.",
+  "_metadata": {
+    "source_image": "tmpybnmfhke.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-28T21:24:04.920580",
+    "model_used": "gemma:2b"
+  }
+}

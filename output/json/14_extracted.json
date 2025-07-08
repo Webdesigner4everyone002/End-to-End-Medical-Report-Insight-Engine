@@ -1,0 +1,36 @@
+{
+  "hospital_info": {
+    "name": "Hemolab Central Health Laboratory",
+    "address": "123 Health Ave, Medicity 12345 Wellbeing Hematology Test Bload Cell Count Red Blood Cell Count Hemoglobin Hematocrit Platelet Count Biochemistry Test Glucose Creatinine Urea Cholesteral Alanine aminotransferase (ALT) Liver function Test 'Aspartate Aminotransferase Alkaline Phosphatase (ALP) Albumin Thyrod function est 'Thyroid Stimulating Hormone Frae Thyraxine (FTA) Jonnatan Doe Age: 30 Gender Male lood Test Result Processing Details Sample: 7/23/2024, 12:51 PM. Results 7/28/2024, 12:51 PM johndoe@example.com Verified by: Dr. Emily Johnson RESULT unit NORMAL RANGE RESULT STATUS. 72 al Narmal 145 185 182-166 Normal 40.4 % 38,3 -48.6 Normal 250 150-450 Normal RESULT UNIT NORMAL RANGE RESULT STATUS 90 70-98 Normat 09 08-12 Normat 29 15-50 Normat 185 mgfdl 0-200 Normat 25 uA. 7-86 Normal RESULT UNIT NORMAL RANGE RESULT STATUS 30 uA. 8-48 7 wa 40-123, Normat 12 03-19 4s gyal. 35-55 Norma RESULT UNIT NORMAL RANGE STATUS 2a 05-45 Normal 12 09-17 Normal"
+  },
+  "patient_info": {
+    "name": "John Doe",
+    "age": 30,
+    "gender": "Male",
+    "id": "..."
+  },
+  "doctor_info": {
+    "name": "Dr. Emily Johnson"
+  },
+  "report_info": {
+    "type": "Hematology Test",
+    "date_collected": "7/23/2024, 12:51 PM",
+    "date_report": "7/28/2024, 12:51 PM"
+  },
+  "test_results": [
+    {
+      "test_name": "Blood Cell Count",
+      "result_value": "72 al Narmal",
+      "unit": "Normal",
+      "reference_range": "Normal",
+      "status": "Normal"
+    }
+  ],
+  "notes": "If extra tests found, mention it here.",
+  "_metadata": {
+    "source_image": "14.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-29T13:52:58.185633",
+    "model_used": "gemma:2b"
+  }
+}

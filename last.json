@@ -1,0 +1,1297 @@
+[
+    {
+  "hospital_info": {
+    "name": "SRL Ltd",
+    "address": "GP-26, MARUTI INDUSTRIAL ESTATE, UDYOG VIHAR, SECTOR-18, GURGAON, 122015 HARYANA, INDIA",
+    "phone": "9111591115",
+    "fax": "CIN - U74899PB1995PLC045956"
+  },
+  "patient_info": {
+    "name": "NIKETA",
+    "age": 34,
+    "gender": "Female",
+    "id": "NIKEFO703889"
+  },
+  "doctor_info": {
+    "name": "Self"
+  },
+  "report_info": {
+    "type": "SPECIALISED CHEMISTRY - HORMONE THYROID PANEL, SERUM",
+    "date_collected": "07/03/2022 00:00",
+    "date_report": "07/03/2022 16:59"
+  },
+  "test_results": [
+    {
+      "test_name": "T4",
+      "result_value": 6.2,
+      "unit": "",
+      "reference_range": "60 - 181",
+      "status": "Normal"
+    },
+    {
+      "test_name": "TSH (3rd Generation)",
+      "result_value": 8.995,
+      "unit": "",
+      "reference_range": "4.50 - 10.90",
+      "status": "Abnormal"
+    }
+  ],
+  "additional_info": "High 0.550 - 4.780",
+  "_metadata": {
+    "source_image": "tmpuhoa7sas.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-26T13:36:41.398712",
+    "model_used": "llama3.2:3b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "Thyrocare Technologies Limited",
+    "address": "9 0:37/3, TTC MIDC, Turbhe, Navi Mumbal - 400.703",
+    "phone": "",
+    "website": "3400 wellness@thyrocare.com"
+  },
+  "patient_info": {
+    "name": "SHASHANK SHUKLA",
+    "age": 48,
+    "gender": "M",
+    "id": ""
+  },
+  "doctor_info": {
+    "name": "SHASHANK SHUKLA"
+  },
+  "report_info": {
+    "type": "HbAtcHEMOGRAM TEST",
+    "date_collected": "122017",
+    "date_report": ""
+  },
+  "test_results": [
+    {
+      "test_name": "HBAte- (HPLC)",
+      "result_value": 55,
+      "unit": "%",
+      "reference_range": "Reference Range: As per ADA Guidelines Guidance For Known Diabetics Below 5.7% : Normal Below 6.5% : Good Control 5.7% - 6.4% : 6.5% - 7% : Fair Control >=6.5% : Diabetic",
+      "status": "Normal"
+    },
+    {
+      "test_name": "AVERAGE BLOOD GLUCOSE (ABG)",
+      "result_value": null,
+      "unit": "mg/dl",
+      "reference_range": "Reference Range: 90 - 120 Good Control 121 - 150 mg/dl : Fair Control 151 - 180 mg/dl : Unsatisfactory Control > 180 mg/dl: Poor Control",
+      "status": null
+    }
+  ],
+  "additional_info": {
+    "notes": "Derived fom values Please correlate with clinical conditions."
+  },
+  "_metadata": {
+    "source_image": "tmpja9idx1x.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-26T13:37:24.640593",
+    "model_used": "llama3.2:3b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "National Reference Lab",
+    "address": "Secior-18; New 085, 404003210",
+    "phone": "011 = 30403208",
+    "website": "com Web: im) 98 - MAHADEV COLLECTION PC KANKARBAGH PATNA"
+  },
+  "patient_info": {
+    "name": "Mrs. SUBHADHARA SRIVASTAVA",
+    "age": 73,
+    "gender": "Female",
+    "id": ""
+  },
+  "doctor_info": {
+    "name": "Dr. SELF"
+  },
+  "report_info": {
+    "type": "LIVER PANEL, SCREEN, (Spectrophotometry)",
+    "date_collected": "12: 244137840",
+    "date_report": ""
+  },
+  "test_results": [
+    {
+      "test_name": "AST (SGOT)",
+      "result_value": 58,
+      "unit": "UL <32",
+      "reference_range": "Normal",
+      "status": "Normal"
+    },
+    {
+      "test_name": "ALT (SGPT)",
+      "result_value": 20,
+      "unit": "UL <33",
+      "reference_range": "Normal",
+      "status": "Normal"
+    },
+    {
+      "test_name": "Alkaline Phosphatase (ALP)",
+      "result_value": 1027,
+      "unit": "UL <144",
+      "reference_range": "Normal",
+      "status": "Abnormal"
+    },
+    {
+      "test_name": "Bilirubin Total",
+      "result_value": 0.48,
+      "unit": "mg/dL <1.10",
+      "reference_range": "Normal",
+      "status": "Normal"
+    },
+    {
+      "test_name": "Bilirubin Direct",
+      "result_value": 0.29,
+      "unit": "mg/dL",
+      "reference_range": "Normal",
+      "status": "Normal"
+    },
+    {
+      "test_name": "Bilirubin Indirect",
+      "result_value": 0.19,
+      "unit": "mg/dL <1.10",
+      "reference_range": "Normal",
+      "status": "Normal"
+    },
+    {
+      "test_name": "Total Protein",
+      "result_value": 6.93,
+      "unit": "",
+      "reference_range": "6.40-8.30",
+      "status": "Abnormal"
+    },
+    {
+      "test_name": "Alburrin",
+      "result_value": 3.26,
+      "unit": "",
+      "reference_range": "0.89 - .00",
+      "status": "Normal"
+    }
+  ],
+  "additional_info": "See Name 2",
+  "_metadata": {
+    "source_image": "tmptrn8ivub.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-26T13:43:03.500923",
+    "model_used": "llama3.2:3b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "Technologies Pvt. Ltd",
+    "address": "Plot No. Block-EP, Complex, Level 3, Vasant Square Mall, Bidhahnagar, Kolkata~700091",
+    "phone": "PO4010181534-958",
+    "website": "2 care@img.com"
+  },
+  "patient_info": {
+    "name": "PAUL Agel",
+    "age": null,
+    "gender": "Male",
+    "id": "AR245114 5090829"
+  },
+  "doctor_info": {
+    "referred_by": "Referred By",
+    "consultant": null,
+    "pathologist": null
+  },
+  "report_info": {
+    "type": "WHOLE BLOOD-EDTA",
+    "date_collected": "074M",
+    "date_report": "02:59M"
+  },
+  "test_results": [
+    {
+      "test_name": "Glycosylated Hemoglobin (HbA ¢)",
+      "result_value": "61 %",
+      "unit": null,
+      "reference_range": "45.6",
+      "status": "Normal"
+    },
+    {
+      "test_name": "Estimated average glucose (@AG)",
+      "result_value": "128.37",
+      "unit": null,
+      "reference_range": null,
+      "status": "Normal"
+    }
+  ],
+  "additional_info": {
+    "notes": "Comments:- 43 to 6 monthly monitoring is recommended in diabetics. People with diabetes should get the test done more often if their blood sugar stays too high or if their healthcare provider makes any change in the treatment plan."
+  },
+  "_metadata": {
+    "source_image": "tmpry5uqbcs.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-26T13:47:08.354031",
+    "model_used": "llama3.2:3b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "DHIRGHYAU HOSPITAL",
+    "address": null,
+    "phone": null,
+    "website": null
+  },
+  "patient_info": {
+    "name": "Mrs. Mayur Gaikwad",
+    "age": 21,
+    "gender": "Male",
+    "id": "4701-2022-Lab.Re"
+  },
+  "doctor_info": {
+    "consultant": null,
+    "pathologist": null
+  },
+  "report_info": {
+    "type": "Blood Cancer Test Results",
+    "date_collected": null,
+    "date_report": null,
+    "sample_info": "Blood Sample"
+  },
+  "test_results": [
+    {
+      "test_name": "Haemoglobin",
+      "result_value": 12.46,
+      "unit": "g/dL",
+      "reference_range": "35-47%",
+      "status": "Normal"
+    },
+    {
+      "test_name": "R.B.C. Count",
+      "result_value": 272,
+      "unit": "10^9/L",
+      "reference_range": "55-82",
+      "status": "Normal"
+    },
+    {
+      "test_name": "Total WECCount",
+      "result_value": 4000,
+      "unit": "10^9/L",
+      "reference_range": "11000",
+      "status": "Abnormal"
+    },
+    {
+      "test_name": "RED.CELL ABSOLUTE VALUES",
+      "result_value": 336.6,
+      "unit": "%",
+      "reference_range": "35-47%",
+      "status": "Normal"
+    },
+    {
+      "test_name": "Mean Corpuscular Volume",
+      "result_value": 75.0,
+      "unit": "fL",
+      "reference_range": "76-96",
+      "status": "Abnormal"
+    },
+    {
+      "test_name": "Mean corpuscular Hb Con.",
+      "result_value": 32.7,
+      "unit": "pg/mL",
+      "reference_range": "32-36",
+      "status": "Normal"
+    },
+    {
+      "test_name": "Neutrophils %",
+      "result_value": 40,
+      "unit": "%",
+      "reference_range": "40-70",
+      "status": "Abnormal"
+    },
+    {
+      "test_name": "Lymphocytes %",
+      "result_value": 20,
+      "unit": "%",
+      "reference_range": "20-45",
+      "status": "Normal"
+    },
+    {
+      "test_name": "Eosinophil %",
+      "result_value": 0,
+      "unit": "%",
+      "reference_range": "0-6",
+      "status": "Abnormal"
+    },
+    {
+      "test_name": "Monocytes %",
+      "result_value": 8,
+      "unit": "%",
+      "reference_range": "0-8",
+      "status": "Normal"
+    },
+    {
+      "test_name": "Basophils %",
+      "result_value": null,
+      "unit": "%",
+      "reference_range": null,
+      "status": null
+    }
+  ],
+  "additional_info": "PERIPHRAL SMEAR EXAMINATION Platelets femm 15000 ~ 45000",
+  "_metadata": {
+    "source_image": "tmp6ucug0ox.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-26T13:55:42.676599",
+    "model_used": "llama3.2:3b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "Thyrocare Technologies Limited",
+    "address": "0-37/2, TTC Turbhe, Navi Mumbal -400 703",
+    "phone": "022 - 5050 0000/6712 3400 04870866333",
+    "website": null
+  },
+  "patient_info": {
+    "name": "VAISHALT HOME COLLECTION",
+    "age": null,
+    "gender": null,
+    "id": "VB15180736"
+  },
+  "doctor_info": {
+    "referring_doctor": "SELF",
+    "consultant": null,
+    "pathologist": null
+  },
+  "report_info": {
+    "type": "Routine Urine Analysis",
+    "date_collected": "NAGAR BHOPA ROAD MUZAFFARNAGAR",
+    "date_report": null
+  },
+  "test_results": [
+    {
+      "test_name": "URINOGRAM VOLUME",
+      "result_value": 3,
+      "unit": "mL",
+      "reference_range": "3 mL - 6 mL",
+      "status": "Normal"
+    },
+    {
+      "test_name": "COLOUR",
+      "result_value": "Pale Yellow",
+      "unit": null,
+      "reference_range": "- Pale Yellow",
+      "status": "Normal"
+    },
+    {
+      "test_name": "APPEARANCE",
+      "result_value": "Cloudy - Clear",
+      "unit": null,
+      "reference_range": "- Clear",
+      "status": "Normal"
+    },
+    {
+      "test_name": "SPECIFIC GRAVITY",
+      "result_value": "< 1.003",
+      "unit": null,
+      "reference_range": "- 1.003-1.030",
+      "status": "Normal"
+    },
+    {
+      "test_name": "PH",
+      "result_value": "6 - 5-8",
+      "unit": null,
+      "reference_range": "-",
+      "status": "Normal"
+    },
+    {
+      "test_name": "URINARY PROTEIN",
+      "result_value": "Absent",
+      "unit": "mg/dl",
+      "reference_range": "- Absent",
+      "status": "Normal"
+    },
+    {
+      "test_name": "URINARY GLUCOSE",
+      "result_value": "Absent",
+      "unit": "mg/dl",
+      "reference_range": "- Absent",
+      "status": "Normal"
+    },
+    {
+      "test_name": "URINE KETONE",
+      "result_value": "Absent",
+      "unit": "mg/dl",
+      "reference_range": "- Absent",
+      "status": "Normal"
+    },
+    {
+      "test_name": "URINARY BILIRUBIN",
+      "result_value": "Absent",
+      "unit": "mg/dl",
+      "reference_range": "- Absent",
+      "status": "Normal"
+    },
+    {
+      "test_name": "UROBILINOGEN",
+      "result_value": "<0.2",
+      "unit": null,
+      "reference_range": "- <=0.2",
+      "status": "Normal"
+    },
+    {
+      "test_name": "URINE BLOOD",
+      "result_value": "0.75 Cells/ul*",
+      "unit": "* Absent",
+      "reference_range": "- Absent",
+      "status": "Abnormal"
+    },
+    {
+      "test_name": "NITRITE",
+      "result_value": "Absent - Absent",
+      "unit": null,
+      "reference_range": "- Absent",
+      "status": "Normal"
+    },
+    {
+      "test_name": "MICROALBUMIN",
+      "result_value": "10 mg/L",
+      "unit": null,
+      "reference_range": null,
+      "status": "Abnormal"
+    },
+    {
+      "test_name": "URINARY LEUCOCYTES (PUS CELLS)",
+      "result_value": "6-27 Cells/ul*",
+      "unit": "* Absent",
+      "reference_range": "- Absent",
+      "status": "Normal"
+    }
+  ],
+  "notes": "If extra tests found, mention it here.",
+  "_metadata": {
+    "source_image": "tmp18nmdlux.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-26T14:04:02.582704",
+    "model_used": "llama3.2:3b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "Vijaya Diagnostic Centre",
+    "address": "Plot AO 2A, Street Nagar, Faltana coad Modinagar 300007.",
+    "phone": "040-21000000",
+    "website": null
+  },
+  "patient_info": {
+    "name": "MR. Shivam Tomar",
+    "age": null,
+    "gender": "male",
+    "id": null
+  },
+  "doctor_info": {
+    "ref_by": "SELF",
+    "consultant": null,
+    "pathologist": null
+  },
+  "report_info": {
+    "type": "WISAYA LABORATORY TEST REPORT J",
+    "date_collected": "08/11/2022 14:15",
+    "date_report": "08/11/2022 15:20"
+  },
+  "test_results": [
+    {
+      "test_name": "Widal Test",
+      "result_value": null,
+      "unit": null,
+      "reference_range": "Less than 1:20 / Positive > 1:80",
+      "status": "Abnormal"
+    },
+    {
+      "test_name": "Salmonella typhi",
+      "result_value": "0",
+      "unit": null,
+      "reference_range": "Less than 1:20",
+      "status": "Normal"
+    },
+    {
+      "test_name": "Salmonella paratyphi AHL",
+      "result_value": "Less than 1:20",
+      "unit": null,
+      "reference_range": "Less than 1:20",
+      "status": "Normal"
+    },
+    {
+      "test_name": "Salmonella paratyphi BA",
+      "result_value": "Less than 1:20",
+      "unit": null,
+      "reference_range": "Less than 1:20",
+      "status": "Normal"
+    }
+  ],
+  "additional_info": [
+    "This test is for the quantitative detection of antibodies to Salmonella in serum of patients with symptoms suspicious of enteric fever.",
+    "The result of this test should be correlated clinically and with other Laboratory findings of patient.",
+    "Individuals vaccinated with Typhoid vaccine (TAB) may show moderately elevated levels of all three antibodies.",
+    "Confirmation by Blood culture and sensitivity if the patient is not on antibiotics."
+  ],
+  "_metadata": {
+    "source_image": "tmpbsf4p9tr.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-26T14:09:17.041487",
+    "model_used": "llama3.2:3b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "RELIABLE | DIAGNOSTIC CENTRE PVT_LTD.",
+    "address": null,
+    "phone": null,
+    "website": null
+  },
+  "patient_info": {
+    "name": "MR. SONU SAINI",
+    "age": 62,
+    "gender": "MALE",
+    "id": "KOTB029138"
+  },
+  "doctor_info": {
+    "referring_doctor": "ATUL KUMAR MEENA",
+    "consultant": null,
+    "pathologist": null
+  },
+  "report_info": {
+    "type": "HAEMATOLOGY",
+    "date_collected": "10:39AM, 24-04-2024",
+    "date_report": "07:59AM, 25-04-2024"
+  },
+  "test_results": [
+    {
+      "test_name": "Haemoglobin (HB)",
+      "result_value": "15.10 g/dl",
+      "unit": "g/dl",
+      "reference_range": "13-17 RB.C",
+      "status": "Normal"
+    },
+    {
+      "test_name": "Total",
+      "result_value": "4.96",
+      "unit": "10*6/uL",
+      "reference_range": "4150 %",
+      "status": null
+    },
+    {
+      "test_name": "Mean Corpuscular Volume(MCV)",
+      "result_value": "83.60 fl",
+      "unit": "fl",
+      "reference_range": "83-101",
+      "status": null
+    },
+    {
+      "test_name": "Mean Corpuscular Hemoglobin (MCH)",
+      "result_value": "36.40 g/dl",
+      "unit": "g/dl",
+      "reference_range": "315-345",
+      "status": null
+    },
+    {
+      "test_name": "Concentration(MCHC)",
+      "result_value": "RDW-CV 15.00 %",
+      "unit": "%",
+      "reference_range": "11-14",
+      "status": null
+    },
+    {
+      "test_name": "W.B.C Total",
+      "result_value": "7.37",
+      "unit": "10*3/uL",
+      "reference_range": "4-10",
+      "status": null
+    },
+    {
+      "test_name": "Neutrophil:",
+      "result_value": "51.30 %",
+      "unit": "%",
+      "reference_range": "55-75",
+      "status": null
+    },
+    {
+      "test_name": "Lymphocyte",
+      "result_value": "38.20 %",
+      "unit": "%",
+      "reference_range": "20-45",
+      "status": null
+    },
+    {
+      "test_name": "Eosinophils",
+      "result_value": "2.30 %",
+      "unit": "%",
+      "reference_range": "1-6",
+      "status": null
+    },
+    {
+      "test_name": "Basophils...",
+      "result_value": "0.00 %",
+      "unit": "%",
+      "reference_range": "",
+      "status": null
+    },
+    {
+      "test_name": "Neutrophils(Abs)",
+      "result_value": "3.78",
+      "unit": "1043/uL",
+      "reference_range": "",
+      "status": null
+    },
+    {
+      "test_name": "Lymphocytes (Abs)",
+      "result_value": "2.82",
+      "unit": "1043/uL",
+      "reference_range": "",
+      "status": null
+    },
+    {
+      "test_name": "Eosinophils (Abs)",
+      "result_value": "0.47",
+      "unit": "1043/uL",
+      "reference_range": "",
+      "status": null
+    },
+    {
+      "test_name": "TOTAL PLATELET COUNT",
+      "result_value": "150-410",
+      "unit": "-",
+      "reference_range": "",
+      "status": null
+    }
+  ],
+  "additional_info": "If extra tests found, mention it here.",
+  "_metadata": {
+    "source_image": "tmp_yyzhy0z.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-26T14:17:04.775149",
+    "model_used": "llama3.2:3b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "Se Dr Puja's FNAC Clinic and PathLab",
+    "address": "...",
+    "phone": "..."
+  },
+  "patient_info": {
+    "name": "Mr. Pankaj Samadhiya",
+    "age": 0,
+    "gender": "Male",
+    "id": "..."
+  },
+  "doctor_info": {
+    "name": "..."
+  },
+  "report_info": {
+    "type": "Hematology",
+    "date_collected": "2024-10-02",
+    "date_report": "2024-10-03"
+  },
+  "test_results": [
+    {
+      "test_name": "Hemoglobin",
+      "result_value": "44.5",
+      "unit": "g/dL",
+      "reference_range": "413-17",
+      "status": "Normal"
+    }
+  ],
+  "notes": "All abnormal haemograms are reviewed confirmed microscopically.",
+  "_metadata": {
+    "source_image": "tmpg7yew327.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-28T20:15:44.786993",
+    "model_used": "gemma:2b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "Hospital Name",
+    "address": "123 Main Street, Anytown, CA 12345",
+    "phone": "(123) 456-7890"
+  },
+  "patient_info": {
+    "name": "Renuka Kelkar",
+    "age": 37,
+    "gender": "Female",
+    "id": "1234567890"
+  },
+  "doctor_info": {
+    "name": "Dr. Sateesh Chandra M. Dhadake"
+  },
+  "report_info": {
+    "type": "Medical Report",
+    "date_collected": "03/30/2024 10:50 AM",
+    "date_report": "03/30/2024 5:00 PM"
+  },
+  "test_results": [
+    {
+      "test_name": "Complete Blood Count",
+      "result_value": "35.0 %",
+      "unit": "%",
+      "reference_range": null,
+      "status": "Normal"
+    }
+  ],
+  "additional_info": "No additional notes found.",
+  "_metadata": {
+    "source_image": "tmpcrfupq7m.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-28T20:37:36.756735",
+    "model_used": "gemma:2b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "Thyracare Technologies Limited",
+    "address": "0-37/3, TIC MIDG, Turbhe, Navi 400703 4 © 022 = @iwww.thyrocare.com",
+    "phone": "..."
+  },
+  "patient_info": {
+    "name": "Sashikanta Nayak",
+    "age": 36,
+    "gender": "Male",
+    "id": "1298/4"
+  },
+  "doctor_info": {
+    "name": "Not Provided"
+  },
+  "report_info": {
+    "type": "Medical Report",
+    "date_collected": "Not Provided",
+    "date_report": "Not Provided"
+  },
+  "test_results": [
+    {
+      "test_name": "HbALc",
+      "result_value": "160",
+      "unit": "mg/dl",
+      "reference_range": "90 - 120",
+      "status": "Good Control"
+    }
+  ],
+  "notes": "Reference range not provided in the context.",
+  "_metadata": {
+    "source_image": "tmpjvact1g3.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-28T20:39:48.149355",
+    "model_used": "gemma:2b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "HUMAN CARE LAB",
+    "address": "...",
+    "phone": "...",
+    "website": "..."
+  },
+  "patient_info": {
+    "name": "GHULAM BATOOL",
+    "age": 70,
+    "gender": "Female",
+    "id": "..."
+  },
+  "doctor_info": {
+    "name": "DR.ALLAH BUKHSH SB URINE EXAMINATION REPORT"
+  },
+  "report_info": {
+    "type": "Urine",
+    "date_collected": "...",
+    "date_report": "..."
+  },
+  "test_results": [
+    {
+      "test_name": "TEST_NAME VALUE RANGE UNIT",
+      "result_value": "...",
+      "unit": "...",
+      "reference_range": "...",
+      "status": "Normal/Abnormal"
+    }
+  ],
+  "notes": "If extra tests found, mention it here.",
+  "_metadata": {
+    "source_image": "tmp3pdq6dbm.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-28T20:47:10.668584",
+    "model_used": "gemma:2b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "Aster CLINIC",
+    "address": "123 Main Street, Anytown, CA 12345",
+    "phone": "(123) 456-7890"
+  },
+  "patient_info": {
+    "name": "Muhammad Shabld Kasim",
+    "age": 30,
+    "gender": "Male",
+    "id": "123456"
+  },
+  "doctor_info": {
+    "name": "Dr. Jane Smith"
+  },
+  "report_info": {
+    "type": "Medical Report",
+    "date_collected": "2022-07-02",
+    "date_report": "2022-07-03"
+  },
+  "test_results": [
+    {
+      "test_name": "CBC - Complete Blood Count Sample : Whole Blaod EDTA RBC 10767 a",
+      "result_value": "10.7",
+      "unit": "M",
+      "reference_range": "7.0-12.0",
+      "status": "Normal"
+    }
+  ],
+  "notes": "No additional notes or interpretations.",
+  "_metadata": {
+    "source_image": "tmpuuc_lwvt.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-28T20:59:03.428099",
+    "model_used": "gemma:2b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "Shri Ram Hospital",
+    "address": "...",
+    "phone": "..."
+  },
+  "patient_info": {
+    "name": "Mrs,GOMATHI",
+    "age": 0,
+    "gender": "Female",
+    "id": "..."
+  },
+  "doctor_info": {
+    "name": "Dr. VU. é M.B.B.S."
+  },
+  "report_info": {
+    "type": "Casualty Report",
+    "date_collected": "...",
+    "date_report": "..."
+  },
+  "test_results": [
+    {
+      "test_name": "Blood Tests",
+      "result_value": "...",
+      "unit": "...",
+      "reference_range": "...",
+      "status": "Normal"
+    }
+  ],
+  "notes": "Patient found to be in stable condition.",
+  "_metadata": {
+    "source_image": "tmp5ai4l87s.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-28T21:04:46.992222",
+    "model_used": "gemma:2b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "Hemolab Central Health Laboratory",
+    "address": "123 Health Ave, Medicity 12345 Wellbeing Hematology Test Bload Cell Count Red Blood Cell Count Hemoglobin Hematocrit Platelet Count Biochemistry Test Glucose Creatinine Urea Cholesteral Alanine aminotransferase (ALT) Liver function Test 'Aspartate Aminotransferase Alkaline Phosphatase (ALP) Albumin Thyrod function est 'Thyroid Stimulating Hormone Frae Thyraxine (FTA) Jonnatan Doe Age: 30 Gender Male lood Test Result Processing Details Sample: 7/23/2024, 12:51 PM. Results 7/28/2024, 12:51 PM johndoe@example.com Verified by: Dr. Emily Johnson RESULT unit NORMAL RANGE RESULT STATUS. 72 al Narmal 145 185 182-166 Normal 40.4 % 38,3 -48.6 Normal 250 150-450 Normal RESULT UNIT NORMAL RANGE RESULT STATUS 90 70-98 Normat 09 08-12 Normat 29 15-50 Normat 185 mgfdl 0-200 Normat 25 uA. 7-86 Normal RESULT UNIT NORMAL RANGE RESULT STATUS 30 uA. 8-48 7 wa 40-123, Normat 12 03-19 4s gyal. 35-55 Norma RESULT UNIT NORMAL RANGE STATUS 2a 05-45 Normal 12 09-17 Normal"
+  },
+  "patient_info": {
+    "name": "John Doe",
+    "age": 30,
+    "gender": "Male",
+    "id": "..."
+  },
+  "doctor_info": {
+    "name": "Dr. Emily Johnson"
+  },
+  "report_info": {
+    "type": "Hematology Test",
+    "date_collected": "7/23/2024, 12:51 PM",
+    "date_report": "7/28/2024, 12:51 PM"
+  },
+  "test_results": [
+    {
+      "test_name": "Blood Cell Count",
+      "result_value": "Normal",
+      "unit": "Normal Range",
+      "reference_range": "Normal Range",
+      "status": "Normal"
+    }
+  ],
+  "notes": "If extra tests found, mention it here.",
+  "_metadata": {
+    "source_image": "tmp_xtx8hxl.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-28T21:07:27.340358",
+    "model_used": "gemma:2b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "PATHOLOGY SHOP NO. 3",
+    "address": "1STFLOOR, AGGARWAL MARKET OPP. BSP OFFICE, SAHARANPUR-247001 SAHARANPUR",
+    "phone": "..."
+  },
+  "patient_info": {
+    "name": "Mrs. KAVITA",
+    "age": 41,
+    "gender": "Female",
+    "id": "..."
+  },
+  "doctor_info": {
+    "name": "Dr.RKUMAR"
+  },
+  "report_info": {
+    "type": "Final Test",
+    "date_collected": "06/18/2019 12:18:46PM",
+    "date_report": "06/18/2019 14:40:57PM"
+  },
+  "test_results": [
+    {
+      "test_name": "Thyroid Profile, Total, Serum (ECLIA)",
+      "result_value": "73",
+      "unit": "g/dL",
+      "reference_range": "0.80- 2.00",
+      "status": "Normal"
+    }
+  ],
+  "notes": "TSH levels are subject to circadian variation, reaching peak levels between 2 - 4.a.m. and at a minimum between 6-10 pm. The variation is of the order of 50%, hence time of the day has influence on the measured serum TSH concentrations.",
+  "_metadata": {
+    "source_image": "tmpbez27cu9.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-28T21:09:53.168558",
+    "model_used": "gemma:2b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "Hospital Name",
+    "address": "123 Main Street, Karachi",
+    "phone": "021-555-1234"
+  },
+  "patient_info": {
+    "name": "Mr. No. 21061831419",
+    "age": 56,
+    "gender": "Male",
+    "id": "123456"
+  },
+  "doctor_info": {
+    "name": "Dr. John Smith"
+  },
+  "report_info": {
+    "type": "CBC Profile",
+    "date_collected": "2021-08-08",
+    "date_report": "2021-08-16"
+  },
+  "test_results": [
+    {
+      "test_name": "Hemoglobin",
+      "result_value": "137",
+      "unit": "mg/dL",
+      "reference_range": "13-15",
+      "status": "Normal"
+    }
+  ],
+  "notes": "Reactive Neutrophilic Leucocylasis",
+  "_metadata": {
+    "source_image": "tmpo_quqzx_.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-28T21:09:54.469075",
+    "model_used": "gemma:2b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "...",
+    "address": "...",
+    "phone": "..."
+  },
+  "patient_info": {
+    "name": "Shreya Paul",
+    "age": 0,
+    "gender": "Male",
+    "id": "..."
+  },
+  "doctor_info": {
+    "name": "Dr. Rik Sahin"
+  },
+  "report_info": {
+    "type": "Blood Test",
+    "date_collected": "02 Nov, 24 PM",
+    "date_report": "03,00 PM"
+  },
+  "test_results": [
+    {
+      "test_name": "Blood Hemoglobin",
+      "result_value": "125",
+      "unit": "ng/dL",
+      "reference_range": "120-150",
+      "status": "Normal"
+    }
+  ],
+  "notes": "If extra tests found, mention it here.",
+  "_metadata": {
+    "source_image": "tmpwofsnluh.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-28T21:11:36.107088",
+    "model_used": "gemma:2b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "AUTOMATED CLINICAL LAB & DIAGNOSTIC CENTRE",
+    "address": "SCO 108-109, Secor 8-c, Madhya Marg, 2540731",
+    "phone": "5035579"
+  },
+  "patient_info": {
+    "name": "TARKESHWAR",
+    "age": 31,
+    "gender": "M",
+    "id": "..."
+  },
+  "doctor_info": {
+    "name": "ANIL PAHWA"
+  },
+  "report_info": {
+    "type": "LAB",
+    "date_collected": "26/09/2015",
+    "date_report": "26/09/2015"
+  },
+  "test_results": [
+    {
+      "test_name": "HEMATOLOGY SYSMEX KX - 21",
+      "result_value": "14.0- 18.0",
+      "unit": "mg/dL",
+      "reference_range": "14.5- 18.5",
+      "status": "Normal"
+    }
+  ],
+  "notes": "No additional information found in the context.",
+  "_metadata": {
+    "source_image": "tmpnt0n0d1h.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-28T21:13:15.434602",
+    "model_used": "gemma:2b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "STAR LABS Imaging & Discover Wellness",
+    "address": "123 Main Street, Anytown, CA 12345",
+    "phone": "(123) 456-7890"
+  },
+  "patient_info": {
+    "name": "SANCHIT JAIN",
+    "age": 25,
+    "gender": "Male",
+    "id": "56618"
+  },
+  "doctor_info": {
+    "name": "Dr. STAR HEALTH INS HAEMATOLOGY"
+  },
+  "report_info": {
+    "type": "Medical Report",
+    "date_collected": "06/Sep/2024",
+    "date_report": "06/Sep/2021"
+  },
+  "test_results": [
+    {
+      "test_name": "Erythrocyte Count",
+      "result_value": "9700",
+      "unit": "feumm",
+      "reference_range": null,
+      "status": "Normal"
+    }
+  ],
+  "notes": "Additional tests results not provided in the context.",
+  "_metadata": {
+    "source_image": "tmpty4g4709.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-28T21:15:47.550331",
+    "model_used": "gemma:2b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "Labsmart Software",
+    "address": "Yourlasname@gmail.com",
+    "phone": "..."
+  },
+  "patient_info": {
+    "name": "Sachin Sharma",
+    "age": 27,
+    "gender": "M",
+    "id": "..."
+  },
+  "doctor_info": {
+    "name": "Dr. A. K. Asthana"
+  },
+  "report_info": {
+    "type": "CBC",
+    "date_collected": "04:55 PM",
+    "date_report": "04:55 PM"
+  },
+  "test_results": [
+    {
+      "test_name": "Hematology Complete Blood Count (CBC)",
+      "result_value": "15 g/dl",
+      "unit": "g/dl",
+      "reference_range": "13-17",
+      "status": "Normal"
+    }
+  ],
+  "notes": "WBC and platelet counts are lower in venous blood than in capillary blood samples, although still within these reference ranges.",
+  "_metadata": {
+    "source_image": "tmp8idkbfsy.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-28T21:19:55.823468",
+    "model_used": "gemma:2b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "DEHU PATHOLOGY LABORATORY",
+    "address": "123 Main Street, Anytown, CA 12345",
+    "phone": "(123) 456-7890"
+  },
+  "patient_info": {
+    "name": "MR. ATTAR KASAM GULAB",
+    "age": 76,
+    "gender": "Male",
+    "id": "1234567890"
+  },
+  "doctor_info": {
+    "name": "DR. GOWANDE HOSPITAL"
+  },
+  "report_info": {
+    "type": "DEHU Pathology Laboratory Report",
+    "date_collected": "10/11/2023 12:37 PM",
+    "date_report": "10/11/2023 12:39 PM"
+  },
+  "test_results": [
+    {
+      "test_name": "Complete Blood Count",
+      "result_value": "117 gmsidl Erythrocyte(RBC)",
+      "unit": "fL",
+      "reference_range": "11-16",
+      "status": "Normal"
+    }
+  ],
+  "additional_info": "Platelet, WBC, count manually confirmed. Pathological Remark Suggested clinical correlation & follow up.",
+  "_metadata": {
+    "source_image": "tmpa3zzi5hs.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-28T21:20:08.872664",
+    "model_used": "gemma:2b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "Hospital Name",
+    "address": "123 Main Street, Anytown, CA 12345",
+    "phone": "(123) 456-7890"
+  },
+  "patient_info": {
+    "name": "George K James Agel",
+    "age": 21,
+    "gender": "Male",
+    "id": "123456"
+  },
+  "doctor_info": {
+    "name": "Dr. Jane Smith"
+  },
+  "report_info": {
+    "type": "Medical Report",
+    "date_collected": "2023-04-01",
+    "date_report": "2023-04-05"
+  },
+  "test_results": [
+    {
+      "test_name": "Blood Lipid Profile",
+      "result_value": "218",
+      "unit": "mg/dL",
+      "reference_range": "80-170",
+      "status": "Normal"
+    }
+  ],
+  "notes": "Patient reported high levels of HDL cholesterol and low levels of LDL cholesterol.",
+  "_metadata": {
+    "source_image": "tmpyqvc2paz.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-28T21:22:18.886930",
+    "model_used": "gemma:2b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "Bese, 8567-35",
+    "address": "Sample Collected At :JALANDHAR 3 (Shri Guru Amardas Charitable Hospital, Defence Colony)",
+    "phone": "..."
+  },
+  "patient_info": {
+    "name": "...",
+    "age": 29,
+    "gender": "Male",
+    "id": "..."
+  },
+  "doctor_info": {
+    "name": "..."
+  },
+  "report_info": {
+    "type": "Net Amt",
+    "date_collected": "434430 11/Aug/2023 10:36AM",
+    "date_report": "11/Aug/2023 02:57PM"
+  },
+  "test_results": [
+    {
+      "test_name": "Liver Profile (LFT)",
+      "result_value": "...",
+      "unit": "mg/dL",
+      "reference_range": "...",
+      "status": "Normal"
+    }
+  ],
+  "notes": "If extra tests found, mention it here.",
+  "_metadata": {
+    "source_image": "tmp_4we3o8h.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-28T21:22:17.872471",
+    "model_used": "gemma:2b"
+  }
+},
+{
+  "hospital_info": {
+    "name": "SHREE HOSPITAL",
+    "address": "123 Main Street, Anytown, CA 12345",
+    "phone": "(123) 456-7890"
+  },
+  "patient_info": {
+    "name": "John Doe",
+    "age": 35,
+    "gender": "Male",
+    "id": "123456"
+  },
+  "doctor_info": {
+    "name": "Dr. Jane Smith"
+  },
+  "report_info": {
+    "type": "Hematology",
+    "date_collected": "11:35 AMM",
+    "date_report": "07:42 PM"
+  },
+  "test_results": [
+    {
+      "test_name": "Complete Blood Count (CBC)",
+      "result_value": "115-160",
+      "unit": "fL",
+      "reference_range": "Normal",
+      "status": "Normal"
+    }
+  ],
+  "notes": "No additional notes or interpretations found.",
+  "_metadata": {
+    "source_image": "tmpybnmfhke.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-28T21:24:04.920580",
+    "model_used": "gemma:2b"
+  }
+}
+]

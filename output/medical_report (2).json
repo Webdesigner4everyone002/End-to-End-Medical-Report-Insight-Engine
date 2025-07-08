@@ -1,0 +1,47 @@
+{
+  "hospital_info": {
+    "name": "Thyrocare Technologies Limited",
+    "address": "9 0:37/3, TTC MIDC, Turbhe, Navi Mumbal - 400.703",
+    "phone": "",
+    "website": "3400 wellness@thyrocare.com"
+  },
+  "patient_info": {
+    "name": "SHASHANK SHUKLA",
+    "age": 48,
+    "gender": "M",
+    "id": ""
+  },
+  "doctor_info": {
+    "name": "SHASHANK SHUKLA"
+  },
+  "report_info": {
+    "type": "HbAtcHEMOGRAM TEST",
+    "date_collected": "122017",
+    "date_report": ""
+  },
+  "test_results": [
+    {
+      "test_name": "HBAte- (HPLC)",
+      "result_value": 55,
+      "unit": "%",
+      "reference_range": "Reference Range: As per ADA Guidelines Guidance For Known Diabetics Below 5.7% : Normal Below 6.5% : Good Control 5.7% - 6.4% : 6.5% - 7% : Fair Control >=6.5% : Diabetic",
+      "status": "Normal"
+    },
+    {
+      "test_name": "AVERAGE BLOOD GLUCOSE (ABG)",
+      "result_value": null,
+      "unit": "mg/dl",
+      "reference_range": "Reference Range: 90 - 120 Good Control 121 - 150 mg/dl : Fair Control 151 - 180 mg/dl : Unsatisfactory Control > 180 mg/dl: Poor Control",
+      "status": null
+    }
+  ],
+  "additional_info": {
+    "notes": "Derived fom values Please correlate with clinical conditions."
+  },
+  "_metadata": {
+    "source_image": "tmpja9idx1x.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-26T13:37:24.640593",
+    "model_used": "llama3.2:3b"
+  }
+}

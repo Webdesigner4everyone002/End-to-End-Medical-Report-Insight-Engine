@@ -1,0 +1,37 @@
+{
+  "hospital_info": {
+    "name": "Hospital Name",
+    "address": "123 Main Street, Anytown, CA 12345",
+    "phone": "(123) 456-7890"
+  },
+  "patient_info": {
+    "name": "Renuka Kelkar",
+    "age": 37,
+    "gender": "Female",
+    "id": "1234567890"
+  },
+  "doctor_info": {
+    "name": "Dr. Sateesh Chandra M. Dhadake"
+  },
+  "report_info": {
+    "type": "Complete Blood Count",
+    "date_collected": "30/03/2024 10:50 AM",
+    "date_report": "30/03/2024 5:00 PM"
+  },
+  "test_results": [
+    {
+      "test_name": "Complete Blood Count",
+      "result_value": "35.0 %",
+      "unit": "%",
+      "reference_range": null,
+      "status": "Normal"
+    }
+  ],
+  "additional_info": "No additional notes found.",
+  "_metadata": {
+    "source_image": "10.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-29T13:46:37.712573",
+    "model_used": "gemma:2b"
+  }
+}

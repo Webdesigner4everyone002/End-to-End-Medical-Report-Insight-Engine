@@ -1,0 +1,37 @@
+{
+  "hospital_info": {
+    "name": "Vijaya Diagnostic Centre",
+    "address": "Street Nagar, Faltana coad Modinagar 300007",
+    "phone": "..."
+  },
+  "patient_info": {
+    "name": "MR.Shivam Tomar",
+    "age": 0,
+    "gender": "male",
+    "id": "..."
+  },
+  "doctor_info": {
+    "name": "Dr. XYZ"
+  },
+  "report_info": {
+    "type": "Laboratory Test",
+    "date_collected": "08/11/2022 14:13",
+    "date_report": "08/11/2022 15:20"
+  },
+  "test_results": [
+    {
+      "test_name": "Widal Test",
+      "result_value": "Negative",
+      "unit": "NA",
+      "reference_range": "Negative",
+      "status": "Normal"
+    }
+  ],
+  "additional_info": "If extra tests found, mention it here.",
+  "_metadata": {
+    "source_image": "7.png",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-29T14:59:48.082276",
+    "model_used": "gemma:2b"
+  }
+}
